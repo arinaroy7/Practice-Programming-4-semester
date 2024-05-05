@@ -1,0 +1,14 @@
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\3 задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\3 задача.AssemblyInfoInputs.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\3 задача.AssemblyInfo.cs
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\3 задача.csproj.CoreCompileInputs.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\bin\Debug\net7.0\3 задача.exe
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\bin\Debug\net7.0\3 задача.deps.json
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\bin\Debug\net7.0\3 задача.runtimeconfig.json
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\bin\Debug\net7.0\3 задача.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\bin\Debug\net7.0\3 задача.pdb
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\3 задача.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\refint\3 задача.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\3 задача.pdb
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\3 задача.genruntimeconfig.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\1 лаборатория\3 задача\obj\Debug\net7.0\ref\3 задача.dll

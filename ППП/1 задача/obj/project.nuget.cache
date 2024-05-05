@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1L0B75zo7Umxt8GBR84HMAm57y955HZoMbh+eh4I4jBnftkhB2dAD3EJT1z2Yaa33jnxBoRNsxamztTkwMEsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arina\\Desktop\\Учеба\\Для Портфолио в Гит\\Практика по программированию 4 семестр\\ППП\\1 задача\\1 задача.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arina\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\arina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\arina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\arina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

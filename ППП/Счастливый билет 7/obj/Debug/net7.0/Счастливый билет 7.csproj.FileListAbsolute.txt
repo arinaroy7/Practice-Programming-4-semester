@@ -1,0 +1,14 @@
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\bin\Debug\net7.0\Счастливый билет 7.exe
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\bin\Debug\net7.0\Счастливый билет 7.deps.json
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\bin\Debug\net7.0\Счастливый билет 7.runtimeconfig.json
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\bin\Debug\net7.0\Счастливый билет 7.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\bin\Debug\net7.0\Счастливый билет 7.pdb
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\Счастливый билет 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\Счастливый билет 7.AssemblyInfoInputs.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\Счастливый билет 7.AssemblyInfo.cs
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\Счастливый билет 7.csproj.CoreCompileInputs.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\Счастливый билет 7.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\refint\Счастливый билет 7.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\Счастливый билет 7.pdb
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\Счастливый билет 7.genruntimeconfig.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\Счастливый билет 7\obj\Debug\net7.0\ref\Счастливый билет 7.dll

@@ -1,0 +1,14 @@
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\3 лаборатория.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\3 лаборатория.AssemblyInfoInputs.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\3 лаборатория.AssemblyInfo.cs
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\3 лаборатория.csproj.CoreCompileInputs.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\bin\Debug\net7.0\3 лаборатория.exe
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\bin\Debug\net7.0\3 лаборатория.deps.json
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\bin\Debug\net7.0\3 лаборатория.runtimeconfig.json
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\bin\Debug\net7.0\3 лаборатория.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\bin\Debug\net7.0\3 лаборатория.pdb
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\3 лаборатория.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\refint\3 лаборатория.dll
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\3 лаборатория.pdb
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\3 лаборатория.genruntimeconfig.cache
+C:\Users\arina\Desktop\Учеба\Учеба 2 курс 4 семестр\ПпП\3 лаборатория тема 4\obj\Debug\net7.0\ref\3 лаборатория.dll
